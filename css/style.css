@@ -1784,7 +1784,7 @@ width: 11%;
     line-height: 1.6;
 }
 /*------------------------*/
- 
+
 /*------------------------*/
 
 .section_cooperation {
@@ -2169,6 +2169,11 @@ width: 11%;
         border: 1px solid #b0b0b0;
         height: 43px;
         font-size: 14px;
+    }
+    .b-form .form__wrap {
+        display: block; 
+        max-width: 420px;
+        margin: auto;
     }
     .b-slider-main .slider-main__bottom-title {
         color: #fff;    
