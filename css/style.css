@@ -1892,6 +1892,10 @@ width: 11%;
         right: 30px;
         top: 100px;
     }
+    .b-form--two {
+        max-width: 420px;
+        margin: auto;
+    }
     .b-form--slider {
         top: 462px; 
         right: 30px;
