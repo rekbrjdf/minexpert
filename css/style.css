@@ -2170,7 +2170,7 @@ width: 11%;
         height: 43px;
         font-size: 14px;
     }
-    .b-form .form__wrap {
+    .b-form {
         display: block; 
         max-width: 420px;
         margin: auto;
